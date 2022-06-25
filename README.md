@@ -1,4 +1,4 @@
-# luckDraw-frontend
+# luckDraw-front
 
 > 一个仿掘金的抽奖的单页项目
 
