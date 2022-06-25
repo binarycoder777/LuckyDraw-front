@@ -1,6 +1,6 @@
 # luckDraw-frontend
 
-> 一个仿掘金的抽奖系统的单页项目
+> 一个仿掘金的抽奖的单页项目
 
 
 ## 环境及版本说明
@@ -34,5 +34,7 @@ npm run build --report
 `src/components/homePage.vue`为主页面
 
 项目预览如下：
+
+ <img width="1300" alt="image" src="https://user-images.githubusercontent.com/72557529/175759811-aa7ed377-9d48-465c-9448-830df77939a1.png">
 
 
